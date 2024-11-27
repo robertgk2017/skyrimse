@@ -9669,7 +9669,7 @@ plugins:
         util: '[SSEEdit v4.0.3g](https://www.nexusmods.com/skyrimspecialedition/mods/164)'
         itm: 3
 
-  - name: 'Crossbow Integration.*/.esp'
+  - name: 'Crossbow Integration.*\.esp'
     url: [ 'https://www.nexusmods.com/skyrimspecialedition/mods/28766/' ]
   - name: 'Crossbow Integration.esp'
     tag:
