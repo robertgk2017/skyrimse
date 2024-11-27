@@ -1879,6 +1879,10 @@ plugins:
   - name: 'dv01vampireclanwar.esm'
     group: *verifiedCreationsGroup
 
+  # Aetherforged Gigamaul
+  - name: 'gigamaul.esp'
+    group: *verifiedCreationsGroup
+
   # Aldmeri Anti-Mage
   - name: 'ccrs001.esl'
     group: *verifiedCreationsGroup
@@ -1901,6 +1905,10 @@ plugins:
 
   # Bards College Expansion
   - name: 'kinggathcreations_bard.esm'
+    group: *verifiedCreationsGroup
+
+  # Black Glass
+  - name: 'black glass.esl'
     group: *verifiedCreationsGroup
 
   # Bthar Caverns
@@ -1943,6 +1951,10 @@ plugins:
   - name: 'fortressofice.esl'
     group: *verifiedCreationsGroup
 
+  # Into the Abyss - The Lost Levels
+  - name: 'theabyssll.esp'
+    group: *verifiedCreationsGroup
+
   # Katja The Thief
   - name: 'unockatja.esl'
     group: *verifiedCreationsGroup
@@ -1959,6 +1971,10 @@ plugins:
   - name: 'listener''s initiates.esl'
     group: *verifiedCreationsGroup
 
+  # Longtooth Lair - Vampire Home
+  - name: ceejsse004_lair.esp
+    group: *verifiedCreationsGroup
+
   # Messages in Bottles
   - name: 'messagesinbottles.esl'
     group: *verifiedCreationsGroup
@@ -1971,8 +1987,20 @@ plugins:
   - name: 'bmarnorthernwoodstreehouse.esp'
     group: *verifiedCreationsGroup
 
+  # Rivershadow Retreat - Claim Narfi's House
+  - name: 'narfisplayerhome.esl'
+    group: *verifiedCreationsGroup
+
+  # Scroll Craft
+  - name: 'scrolls.esp'
+    group: *verifiedCreationsGroup
+
   # Secrets of Rkund
   - name: 'rg439rkund.esp'
+    group: *verifiedCreationsGroup
+
+  # Seeking Out Scarlet - A Quest
+  - name: 'sosvc02quest.esl'
     group: *verifiedCreationsGroup
 
   # Shadetree Lodge
@@ -1987,8 +2015,16 @@ plugins:
   - name: 'spelltomecrafting.esl'
     group: *verifiedCreationsGroup
 
+  # Survival Settings
+  - name: 'survivalsettings.esp'
+    group: *verifiedCreationsGroup
+
   # Sword of Spirit - A Quest
   - name: 'sosvcquest.esl'
+    group: *verifiedCreationsGroup
+
+  # The End
+  - name: 'asetheend.esl'
     group: *verifiedCreationsGroup
 
   # The Hidden - Quests and a Dungeon
@@ -2001,6 +2037,10 @@ plugins:
 
   # Thief Hideouts
   - name: 'ceejsse001_hideouts.esl'
+    group: *verifiedCreationsGroup
+
+  # Truth in Legends
+  - name: 'msjm02_thunder.esm'
     group: *verifiedCreationsGroup
 
   # Vampire Extension Framework
@@ -2021,6 +2061,10 @@ plugins:
 
   # Xila's Monstrrous Dragons - A Terrifying Retexture
   - name: 'monstrrous dragons.esl'
+    group: *verifiedCreationsGroup
+
+  # Xila's Elven, Glass and Blood Glass Weapons
+  - name: 'blood glass weapons.esp'
     group: *verifiedCreationsGroup
 
   # Yorgrim Hall
