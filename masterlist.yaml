@@ -1891,6 +1891,10 @@ plugins:
   - name: 'gildancientcivfull.esl'
     group: *verifiedCreationsGroup
 
+  # Animated Weapon Series - Mehrunes Razor
+  - name: 'animatedweapon-mehrunes'' razor.esl'
+    group: *verifiedCreationsGroup
+
   # Anise's Cabin - Claim a New Home
   - name: 'anisecabinplayerhome.esl'
     group: *verifiedCreationsGroup
@@ -1911,6 +1915,10 @@ plugins:
   - name: 'black glass.esl'
     group: *verifiedCreationsGroup
 
+  # Bloodlust - Elven Armor & Weapons
+  - name: 'elvenblood armorweapons.esp'
+    group: *verifiedCreationsGroup
+
   # Bthar Caverns
   - name: 'bthar caverns.esl'
     group: *verifiedCreationsGroup
@@ -1921,6 +1929,10 @@ plugins:
 
   # Capital Vaults
   - name: 'capitalvaults.esp'
+    group: *verifiedCreationsGroup
+
+  # Cathedral - 3D Maple Vine
+  - name: 'cathedral - 3d maple vine.esp'
     group: *verifiedCreationsGroup
 
   # Classic Dialog Menu
@@ -1973,6 +1985,14 @@ plugins:
 
   # Longtooth Lair - Vampire Home
   - name: ceejsse004_lair.esp
+    group: *verifiedCreationsGroup
+
+  # Magenit - Genesis
+  - name: 'mgnt_launchself.esl'
+    group: *verifiedCreationsGroup
+
+  # Magenit - Somber Tune
+  - name: 'magenits_blissless.esp'
     group: *verifiedCreationsGroup
 
   # Messages in Bottles
